@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>nicoleinter.net blog</title>
+  
+  
+  <link href="https://nicoleinter.net/blog/atom.xml" rel="self"/>
+  
+  <link href="https://nicoleinter.net/blog/"/>
+  <updated>2023-02-21T05:32:33.102Z</updated>
+  <id>https://nicoleinter.net/blog/</id>
+  
+  <author>
+    <name>Nicole R</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>camping</title>
+    <link href="https://nicoleinter.net/blog/2023/02/21/camping/"/>
+    <id>https://nicoleinter.net/blog/2023/02/21/camping/</id>
+    <published>2023-02-21T05:27:24.000Z</published>
+    <updated>2023-02-21T05:32:33.102Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Camping-Trip&quot;&gt;&lt;a href=&quot;#Camping-Trip&quot; class=&quot;headerlink&quot; title=&quot;Camping Trip&quot;&gt;&lt;/a&gt;Camping Trip&lt;/h2&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hobonichi hobbies</title>
+    <link href="https://nicoleinter.net/blog/2023/01/23/hobonichi-hobbies/"/>
+    <id>https://nicoleinter.net/blog/2023/01/23/hobonichi-hobbies/</id>
+    <published>2023-01-23T08:19:21.000Z</published>
+    <updated>2023-01-30T10:09:43.159Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;how I ended up loving my diary!!&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Personal" scheme="https://nicoleinter.net/blog/categories/Personal/"/>
+    
+    
+    <category term="diary" scheme="https://nicoleinter.net/blog/tags/diary/"/>
+    
+    <category term="writing" scheme="https://nicoleinter.net/blog/tags/writing/"/>
+    
+    <category term="hobbies" scheme="https://nicoleinter.net/blog/tags/hobbies/"/>
+    
+  </entry>
+  
+</feed>
